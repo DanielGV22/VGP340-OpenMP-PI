@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="VGP340/VGP340.vcxproj" />
+  <Project Path="VGP340_Assignment1/VGP340_Assignment1.vcxproj" />
 </Solution>

@@ -2,6 +2,7 @@
 //
 
 #include <omp.h>
+#include <chrono>
 #include <iostream>
 
 int main()
