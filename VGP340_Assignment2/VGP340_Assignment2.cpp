@@ -63,5 +63,8 @@ int main()
         std::cout << "Speedup: " << serialDuration.count() / parallelDuration.count() << "\n";
     }
 
+    std::cout << "\nPress Enter to exit...";
+    std::cin.ignore();
+    std::cin.get();
     return 0;
 }
