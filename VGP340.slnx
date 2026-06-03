@@ -3,9 +3,11 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Assignment5/Assignment5.vcxproj" Id="4d5ca443-27fc-41b1-b8c1-d111b4f032fc" />
   <Project Path="VGP340/VGP340.vcxproj" Id="1a1e3c3e-d968-4414-a304-f5e725d27138" />
   <Project Path="VGP340_Assignment1/VGP340_Assignment1.vcxproj" Id="848a7282-82d2-47ac-86c9-a9e0fc18b2a5" />
   <Project Path="VGP340_Assignment2/VGP340_Assignment2.vcxproj" Id="cca58f01-658d-4137-a01a-44a055405d27" />
   <Project Path="VGP340_Assignment3/VGP340_Assignment3.vcxproj" Id="6f2520d9-3913-4e95-b06b-0cdbc1ccf1f8" />
   <Project Path="VGP340_Assignment4/VGP340_Assignment4.vcxproj" Id="cda69ac2-7166-4f84-94f0-c09764ad39fe" />
+  <Project Path="VGP340_Assignment6/VGP340_Assignment6.vcxproj" Id="1ba4df30-f2e3-4366-8083-0d188c42f7f3" />
 </Solution>
